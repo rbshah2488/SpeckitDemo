@@ -33,4 +33,6 @@
 
 - **✅ All validation items passed**
 - User entity clarified: Single-user web application with no authentication required
+- Scope updated: Removed User Story 3 (drag-and-drop reordering) and User Story 4 (edit album details)
+- Focus narrowed to P1 stories only: Create/View Albums and Add/Remove Photos
 - Specification is complete and ready for planning phase (`/speckit.plan`)
